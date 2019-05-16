@@ -7,6 +7,7 @@ uses
 type 
   IPessoa = interface 
     function Add(Nome :String):IPessoa;
+    function AlterarNome(ANome : string):IPessoa;
   end;
 
 implementation
