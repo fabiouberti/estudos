@@ -1,6 +1,7 @@
 program Projeto.Interfaces;
 
 interface 
+
 uses 
 	Classes;
 
